@@ -27,6 +27,7 @@ body {
   box-shadow: 5px 5px 9px 0px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 5px 5px 9px 0px rgba(0, 0, 0, 0.75);
   -moz-box-shadow: 5px 5px 9px 0px rgba(0, 0, 0, 0.75);
+  margin: 25px;
 }
 
 .card input {
@@ -56,6 +57,7 @@ body {
   display: flex;
   flex-direction: row;
   gap: 10px;
+  flex-wrap: wrap;
 }
 
 .container-inputs div {
